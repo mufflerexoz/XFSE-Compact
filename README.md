@@ -16,6 +16,7 @@ Setting in playnite:
 1. Game cover square 1:1 ratio
 2. Show game tittle
 3. Vertical 3 row
+4. Filter support Recent Played, Completed, Favourites & All. (Xbox, Nintendo, Playstation)
 
 Features:
 1. Button prompt for Xbox or Playstation.
